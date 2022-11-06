@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NicolasPotesG&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasPotesG&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+**Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-potes-garc%C3%ADa/)
 
 <!--
 **NicolasPotesG/NicolasPotesG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
